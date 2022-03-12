@@ -1,14 +1,14 @@
 {
-    "name": "Queen Angella",
-    "description": "Queen Angella - Whatsapp Bot",
+    "name": "KING ISUWA",
+    "description": "NIMESHA- Whatsapp Bot",
     "logo": "https://i.imgur.com/wvTMw09.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/isuwabrooo/queen-angella",
+    "repository": "https://github.com/Nimeshalakshani/queen-angella",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ZIM_CODE": {
+        "KING_QR_CODE": {
             "description": "Asena session changed! Type your Angella code here.",
             "required": true
         },
@@ -126,7 +126,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Queen Angella Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "KING ISUWA Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
